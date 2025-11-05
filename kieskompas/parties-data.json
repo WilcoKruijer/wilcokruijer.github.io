@@ -1,0 +1,436 @@
+{
+  "dimensions": {
+    "width": "100%",
+    "height": "100%",
+    "viewBox": "0 0 700 700",
+    "class": "Compass__svg"
+  },
+  "axisLabels": {
+    "top": "Progressief",
+    "bottom": "Conservatief",
+    "left": "Links",
+    "right": "Rechts"
+  },
+  "parties": [
+    {
+      "name": "Volkspartij voor Vrijheid en Democratie",
+      "shortName": "VVD",
+      "title": "Volkspartij voor Vrijheid en Democratie: 69% rechts, 35% conservatief.",
+      "position": {
+        "x": 79.61538461538461,
+        "y": 62.64705882352942
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 69,
+          "direction": "rechts"
+        },
+        "vertical": {
+          "value": 35,
+          "direction": "conservatief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 22
+      }
+    },
+    {
+      "name": "Partij Voor de Vrijheid",
+      "shortName": "PVV",
+      "title": "Partij Voor de Vrijheid: 38% rechts, 82% conservatief.",
+      "position": {
+        "x": 64.23076923076923,
+        "y": 86.17647058823529
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 38,
+          "direction": "rechts"
+        },
+        "vertical": {
+          "value": 82,
+          "direction": "conservatief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 26
+      }
+    },
+    {
+      "name": "DENK",
+      "shortName": "DENK",
+      "title": "DENK: 54% links, 38% progressief.",
+      "position": {
+        "x": 18.076923076923077,
+        "y": 25.88235294117647
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 54,
+          "direction": "links"
+        },
+        "vertical": {
+          "value": 38,
+          "direction": "progressief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 3
+      }
+    },
+    {
+      "name": "Partij van de Arbeid/GroenLinks",
+      "shortName": "PvdA-GL",
+      "title": "Partij van de Arbeid/GroenLinks: 62% links, 68% progressief.",
+      "position": {
+        "x": 14.23076923076923,
+        "y": 11.17647058823529
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 62,
+          "direction": "links"
+        },
+        "vertical": {
+          "value": 68,
+          "direction": "progressief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 20
+      }
+    },
+    {
+      "name": "Socialistische Partij",
+      "shortName": "SP",
+      "title": "Socialistische Partij: 81% links, 41% progressief.",
+      "position": {
+        "x": 4.615384615384613,
+        "y": 24.411764705882355
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 81,
+          "direction": "links"
+        },
+        "vertical": {
+          "value": 41,
+          "direction": "progressief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 3
+      }
+    },
+    {
+      "name": "BoerBurgerBeweging",
+      "shortName": "BBB",
+      "title": "BoerBurgerBeweging: 65% rechts, 76% conservatief.",
+      "position": {
+        "x": 77.6923076923077,
+        "y": 83.23529411764706
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 65,
+          "direction": "rechts"
+        },
+        "vertical": {
+          "value": 76,
+          "direction": "conservatief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACigA...",
+      "electionResults2025": {
+        "seats": 4
+      }
+    },
+    {
+      "name": "Democraten 66",
+      "shortName": "D66",
+      "title": "Democraten 66: 27% links, 50% progressief.",
+      "position": {
+        "x": 31.53846153846154,
+        "y": 20
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 27,
+          "direction": "links"
+        },
+        "vertical": {
+          "value": 50,
+          "direction": "progressief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 26
+      }
+    },
+    {
+      "name": "Christen-Democratisch Appèl",
+      "shortName": "CDA",
+      "title": "Christen-Democratisch Appèl: 12% rechts, 12% conservatief.",
+      "position": {
+        "x": 50.76923076923077,
+        "y": 50.88235294117647
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 12,
+          "direction": "rechts"
+        },
+        "vertical": {
+          "value": 12,
+          "direction": "conservatief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 18
+      }
+    },
+    {
+      "name": "Partij voor de Dieren",
+      "shortName": "PvdD",
+      "title": "Partij voor de Dieren: 96% links, 82% progressief.",
+      "position": {
+        "x": -3.07692307692308,
+        "y": 3.82352941176471
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 96,
+          "direction": "links"
+        },
+        "vertical": {
+          "value": 82,
+          "direction": "progressief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 3
+      }
+    },
+    {
+      "name": "Forum voor Democratie",
+      "shortName": "FvD",
+      "title": "Forum voor Democratie: 88% rechts, 82% conservatief.",
+      "position": {
+        "x": 89.23076923076923,
+        "y": 86.17647058823529
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 88,
+          "direction": "rechts"
+        },
+        "vertical": {
+          "value": 82,
+          "direction": "conservatief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 7
+      }
+    },
+    {
+      "name": "Staatkundig Gereformeerde Partij",
+      "shortName": "SGP",
+      "title": "Staatkundig Gereformeerde Partij: 27% rechts, 53% conservatief.",
+      "position": {
+        "x": 58.46153846153846,
+        "y": 71.47058823529412
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 27,
+          "direction": "rechts"
+        },
+        "vertical": {
+          "value": 53,
+          "direction": "conservatief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 3
+      }
+    },
+    {
+      "name": "JA21",
+      "shortName": "JA21",
+      "title": "JA21: 81% rechts, 74% conservatief.",
+      "position": {
+        "x": 85.38461538461539,
+        "y": 81.76470588235294
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 81,
+          "direction": "rechts"
+        },
+        "vertical": {
+          "value": 74,
+          "direction": "conservatief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 9
+      }
+    },
+    {
+      "name": "50PLUS",
+      "shortName": "50PLUS",
+      "title": "50PLUS: 4% rechts, 21% conservatief.",
+      "position": {
+        "x": 46.92307692307692,
+        "y": 55.294117647058826
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 4,
+          "direction": "rechts"
+        },
+        "vertical": {
+          "value": 21,
+          "direction": "conservatief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 2
+      }
+    },
+    {
+      "name": "Nieuw Sociaal Contract",
+      "shortName": "NSC",
+      "title": "Nieuw Sociaal Contract: 8% links, 6% conservatief.",
+      "position": {
+        "x": 41.15384615384615,
+        "y": 47.94117647058823
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 8,
+          "direction": "links"
+        },
+        "vertical": {
+          "value": 6,
+          "direction": "conservatief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 0
+      }
+    },
+    {
+      "name": "ChristenUnie",
+      "shortName": "CU",
+      "title": "ChristenUnie: 27% links, 9% progressief.",
+      "position": {
+        "x": 31.53846153846154,
+        "y": 40.588235294117645
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 27,
+          "direction": "links"
+        },
+        "vertical": {
+          "value": 9,
+          "direction": "progressief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAA...",
+      "electionResults2025": {
+        "seats": 3
+      }
+    },
+    {
+      "name": "Volt",
+      "shortName": "Volt",
+      "title": "Volt: 54% links, 91% progressief.",
+      "position": {
+        "x": 18.076923076923077,
+        "y": -0.588235294117645
+      },
+      "politicalPosition": {
+        "horizontal": {
+          "value": 54,
+          "direction": "links"
+        },
+        "vertical": {
+          "value": 91,
+          "direction": "progressief"
+        }
+      },
+      "imageHref": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAA...",
+      "electionResults2025": {
+        "seats": 1
+      }
+    }
+  ],
+  "partyCount": 16,
+  "electionResults2025": {
+    "D66": {
+      "seats": 26
+    },
+    "PVV": {
+      "seats": 26
+    },
+    "VVD": {
+      "seats": 22
+    },
+    "PvdA-GL": {
+      "seats": 20
+    },
+    "CDA": {
+      "seats": 18
+    },
+    "JA21": {
+      "seats": 9
+    },
+    "FvD": {
+      "seats": 7
+    },
+    "BBB": {
+      "seats": 4
+    },
+    "DENK": {
+      "seats": 3
+    },
+    "CU": {
+      "seats": 3
+    },
+    "SP": {
+      "seats": 3
+    },
+    "SGP": {
+      "seats": 3
+    },
+    "PvdD": {
+      "seats": 3
+    },
+    "50PLUS": {
+      "seats": 2
+    },
+    "Volt": {
+      "seats": 1
+    },
+    "NSC": {
+      "seats": 0
+    }
+  },
+  "generatedAt": "2025-11-05T08:55:24.336Z"
+}

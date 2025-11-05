@@ -1,0 +1,21 @@
+{
+  "name": "wilcokruijer.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server .",
+    "generate-data": "node kieskompas/generate-data.js",
+    "format": "prettier --write \"**/*.{js,json,css,md}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.2",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "jsdom": "^25.0.0",
+    "prettier": "^3.6.2"
+  }
+}
